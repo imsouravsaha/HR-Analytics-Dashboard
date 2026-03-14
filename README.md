@@ -32,3 +32,19 @@ The dashboard answers the following business questions:
 - Which countries have the highest number of employees?
 - Which department has the highest average salary?
 - Which departments have the highest employee attrition?
+
+- Dashboard Interaction <a href="https://github.com/imsouravsaha/HR-Analytics-Dashboard/blob/main/dashboard-preview.png">View Dashboard</a>
+
+# Process
+## The following steps were performed to build the dashboard:
+- Verified the dataset for missing values and inconsistencies.
+- Cleaned and organized the data to ensure correct data types and formats.
+- Converted the dataset into an Excel table for easier analysis.
+- Created Pivot Tables to analyze employee data.
+- Built Pivot Charts to visualize insights.
+- Designed KPI metrics such as total employees and average salary.
+- Added Slicers (Department, Gender, Country) to enable interactive filtering.
+- Combined all visualizations into a single interactive dashboard.
+
+## Dashboard
+![HR Analytics Dashboard](dashboard-preview.png)

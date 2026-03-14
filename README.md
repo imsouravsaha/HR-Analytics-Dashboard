@@ -63,7 +63,7 @@ The dashboard answers the following business questions:
 
 # Final Conclusion
 The HR Analytics Dashboard provides valuable insights into workforce structure and employee trends.
-## Organizations can use these insights to:
+Organizations can use these insights to:
 - Monitor employee attrition
 - Evaluate departmental workforce distribution
 - Understand salary trends
@@ -71,8 +71,7 @@ The HR Analytics Dashboard provides valuable insights into workforce structure a
 - Interactive dashboards like this enable HR teams to quickly analyze workforce data and improve organizational planning.
 
 # Author
-## SOURAV SAHA
+SOURAV SAHA
 Entry-Lavel Data Analyst passionate about data analysis and visualization.
 
-If you found this project useful
-⭐ Feel free to star this repository and share feedback!
+⭐ If you found this project helpful, please consider starring the repository and sharing your feedback.

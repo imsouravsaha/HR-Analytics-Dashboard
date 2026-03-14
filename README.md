@@ -33,7 +33,7 @@ The dashboard answers the following business questions:
 - Which department has the highest average salary?
 - Which departments have the highest employee attrition?
 
-- Dashboard Interaction <a href="https://github.com/imsouravsaha/HR-Analytics-Dashboard/blob/main/dashboard-preview.png">View Dashboard</a>
+## Dashboard Interaction <a href="https://github.com/imsouravsaha/HR-Analytics-Dashboard/blob/main/dashboard-preview.png">View Dashboard</a>
 
 # Process
 ## The following steps were performed to build the dashboard:
